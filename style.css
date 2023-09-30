@@ -19,7 +19,7 @@
   font-family: 'Poppins', sans-serif;
 }
 body {
-  background: url("/assets/bg.jfif") no-repeat bottom;
+  background: url("./public/bg.jfif") no-repeat bottom;
   color: var(--text);
   overflow-x: hidden;
 }
