@@ -1,0 +1,14 @@
+form input{
+    background-color: #FFF;
+    border-radius: 5px;
+    padding: 6px 10px;
+    font-size: 1.02em;
+    margin: 3px;
+    width: 300px;
+    border: 1px solid var(--primary);
+    color: var(--primary);
+}
+form input[type="submit"]{
+    background-color: var(--primary);
+    color: #FFF;
+}
